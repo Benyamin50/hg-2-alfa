@@ -8,15 +8,15 @@
 # Seleccione el tipo de actividad
 - [ x ] Feature
 - [ ] changes
-- [ ] Hotfix
+- [ x ] Hotfix
 - [ ] Refactor
 - [ ] Performance
-- [ ] Testing
+- [ x ] Testing
 
 # Seleccione el tipo de actividad
-- [ ] HTML
-- [ ] Json
-- [ ] Archivo plano (.txt)
+- [ x ] HTML
+- [ x ] Json
+- [ x ] Archivo plano (.txt)
 - [ ] Javascript
 - [ x ] Markdown / .md
 
